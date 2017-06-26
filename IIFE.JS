@@ -4,4 +4,4 @@
 
 (funtion foo() {
  // code 
-})();
+})(); 
